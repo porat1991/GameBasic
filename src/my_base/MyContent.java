@@ -8,7 +8,7 @@ import ui_elements.ScreenPoint;
 import base.Game;
 import base.GameCanvas;
 import base.GameContent;
-import javafx.scene.effect.Light.Point;
+//import javafx.scene.effect.Light.Point;
 import my_game.MyCharacter;
 import my_game.MyPolygon;
 

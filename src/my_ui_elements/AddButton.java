@@ -6,7 +6,8 @@ import ui_elements.GameButton;
 
 public class AddButton extends GameButton{
 	
-	public AddButton(String id, String name, int posX, int posY) {
+	public AddButton(String id, String name, int posX, int posY)
+	{
 		super(id, name, 100, 40, posX, posY);
 	}
 
