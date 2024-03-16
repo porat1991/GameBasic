@@ -39,7 +39,7 @@ public class MyCharacter {
 	
 	//TODO
 	//Add setters, getters and other methods that you need for your character
-	// NADAV 16/3/24
+	// NADAV 16/3/24 - my first github commit
 	
 }	
 
