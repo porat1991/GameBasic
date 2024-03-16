@@ -39,6 +39,7 @@ public class MyCharacter {
 	
 	//TODO
 	//Add setters, getters and other methods that you need for your character
+	//Nadav change 16/3
 	
 }	
 
